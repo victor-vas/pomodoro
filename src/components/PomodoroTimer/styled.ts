@@ -24,6 +24,7 @@ export const PomodoroTimerContainer = styled.div`
   }
 
   button {
+    width: 100px;
     background: #41e1ba;
     border: none;
     cursor: pointer;
