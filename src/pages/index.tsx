@@ -1,5 +1,7 @@
+import Pomodoro from '../containers/Pomodoro';
+
 const Home = () => {
-  return <h1>Hello World</h1>;
+  return <Pomodoro />;
 };
 
 export default Home;
